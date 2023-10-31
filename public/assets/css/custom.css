@@ -147,12 +147,13 @@
     cursor: pointer;
 }
 
-#card-header-invite {
-    left: 17.5%;
-}
-
 @media only screen and (max-width: 480px) {
     #card-header-invite {
       left: 12%;
     }
-  }
+}
+
+#card-header-invite {
+    left: 17.5%;
+}
+
