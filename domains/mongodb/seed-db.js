@@ -51,7 +51,7 @@ const SeedDB = {
         },
         time: {
           hour: "10",
-          minute: "00"
+          minute: "30"
         }
       },
       finances: [{
@@ -112,7 +112,7 @@ const SeedDB = {
         },
         time: {
           hour: "10",
-          minute: "00"
+          minute: "30"
         }
       },
       finances: [{

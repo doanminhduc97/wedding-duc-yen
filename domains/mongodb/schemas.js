@@ -71,6 +71,10 @@ const DATA_CONFIG = new Schema({
                     day: String,
                     month: String,
                     year: String
+                },
+                time: {
+                    hour: String,
+                    minute: String
                 }
             },
             time: {
